@@ -1,0 +1,27 @@
+.sitetitle{
+    font-family: $logofont;
+    font-size: 300%;
+}
+.catchphrase, .statement, .formcontent{
+    font-family: $primaryfont;
+}
+.forminside, .rulesfont, .game-text{
+    @include content;
+}
+.sitetitle-wh{
+    font-family: $logofont;
+    font-size: 300%;
+    color: white;
+}
+.gametitle{
+    @include subheader;
+    color:white;
+}
+.scorefont, .active{
+    font-family: $primaryfont;
+    font-size: 100%;
+}
+.rules{
+    font-family: $logofont;
+    font-size: 180%;
+}

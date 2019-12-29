@@ -1,0 +1,24 @@
+
+//Index site
+.btn-register{
+    background-color: #34ccff;
+    &:hover{
+        background-color: #34b4e4;
+    }  
+}
+.btn-signin{
+    background-color: #ff0033;
+    &:hover{
+        background-color: #7f0d28;
+    }
+}
+
+//Register site
+.btn-signup, .btn-login{
+    color: white;
+    background-color: #34ccff;
+    &:hover{
+        color: white;
+        background-color: #34b4e4;
+    }  
+}

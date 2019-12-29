@@ -1,0 +1,12 @@
+/*Importing google fonts Quintessential og Special Elite*/
+@import url('https://fonts.googleapis.com/css?family=Quintessential|Special+Elite&display=swap');
+
+/*Custom Global styles*/
+@import "scss/variables";
+@import "scss/mixins";
+
+/*Custome Local styles*/
+@import "scss/buttons";
+@import "scss/links";
+@import "scss/fonts";
+@import "scss/background";

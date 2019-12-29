@@ -1,0 +1,9 @@
+@mixin content{
+    font-family: $primaryfont;
+    font-size: 80%;
+}
+
+@mixin subheader{
+    font-family: $logofont;
+    font-size: 200%;
+}
