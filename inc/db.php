@@ -6,6 +6,11 @@
     $password = "";
     $db = "finals";
 
+    //$servername = "melsted.dk.mysql";
+    //$username = "melsted_dk_melsted";
+    //$password = "ninkaninus";
+    //$db = "melsted_dk_melsted";
+
 //Connecting to my database called "finals":
     $conn = mysqli_connect($servername, $username, $password, $db);
 
